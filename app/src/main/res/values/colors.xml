@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#FF4081</color>
+    <!--主题色-->
+    <color name="colorThemePrimary">#32b4ee</color>
+    <color name="colorThemePrimaryDark">#00a2ea</color>
+    <color name="colorThemeTitle">#36b4ee</color>
+    <color name="color_radar_bg">#00A2E0</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhite50">#50FFFFFF</color>
+    <color name="colorWhite80">#80FFFFFF</color>
+    <color name="colorWhite30">#30FFFFFF</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlack50">#50000000</color>
+
+    <color name="colorGray">#828282</color>
+
+    <color name="colorBlue">#0000FF</color>
+    <color name="colorBlue50">#500000FF</color>
+    <color name="c_50blue">#50008FD7</color>
+
+    <color name="colorBlueDark">#008FD7</color>
+    <color name="colorBlueShallow">#00A2E9</color>
+
+    <color name="colorTransparent">#00000000</color>
+
+    <!-- 下拉刷新变换颜色 -->
+    <color name="holo_blue_bright">#00DDFF</color>
+    <color name="holo_green_light">#99CC00</color>
+    <color name="holo_orange_light">#FFBB33</color>
+    <color name="holo_red_light">#FF4444</color>
+</resources>
